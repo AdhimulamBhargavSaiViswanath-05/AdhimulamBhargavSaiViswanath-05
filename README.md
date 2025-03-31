@@ -46,6 +46,16 @@ My academic journey is enriched by a diverse range of experiences, from particip
 
 ---
 
+## 🏆 Workshops Attended  
+
+### 📊 Data Analysis Using Python - Workshop  
+- **Organised by APSSDC at VVIT’s Google Codelabs Laboratory** (March 3-5, 2025).  
+- Covered **Python fundamentals, data analysis (NumPy, Pandas), and visualization (Matplotlib, Seaborn)**.  
+- Introduced **machine learning basics using Scikit-Learn**.  
+- Provided **hands-on experience in data science techniques** and real-world applications. 🚀  
+
+---
+
 ## 🛠 Projects
 
 ### 1️⃣ Web Scraping Project (Python)  
