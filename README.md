@@ -70,6 +70,51 @@ My academic journey is enriched by a diverse range of experiences, from particip
 
 ---
 
+# 🚀 Adhimulam Bhargav Sai Viswanath's GitHub Profile
+
+Welcome to my GitHub profile! Here, you'll find details about my contributions, projects, and achievements. 
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdhimulamBhargavSaiViswanath-05&show_icons=true&count_private=true&theme=dark)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdhimulamBhargavSaiViswanath-05&theme=dark)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhimulamBhargavSaiViswanath-05&layout=compact&theme=dark)  
+
+---
+
+## 📈 Contribution Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AdhimulamBhargavSaiViswanath-05&theme=github-dark)  
+
+---
+
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=AdhimulamBhargavSaiViswanath-05&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)  
+
+---
+
+## 📌 Profile Summary  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdhimulamBhargavSaiViswanath-05&theme=github_dark)  
+
+---
+
+## 📦 Repo Stats (Most Starred Repos)  
+![Most Starred Repos](https://github-contributor-stats.vercel.app/api?username=AdhimulamBhargavSaiViswanath-05)  
+
+---
+
+## 🚀 Wakatime Stats (Coding Activity)  
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdhimulamBhargavSaiViswanath-05)  
+
+---
+
+## 📦 GitHub Metrics  
+![Metrics](https://github.com/AdhimulamBhargavSaiViswanath-05/github-metrics/blob/main/github-metrics.svg)  
+
+---
+
 ## 📬 Connect with Me
 - 📧 Email: [bhargavsaiadhimulam12@gmail.com](mailto:bhargavsaiadhimulam12@gmail.com)  
 - 🔗 LinkedIn: [Adhimulam Bhargav Sai Viswanath](https://www.linkedin.com/in/adhimulambhargavsaiviswanath/)  
