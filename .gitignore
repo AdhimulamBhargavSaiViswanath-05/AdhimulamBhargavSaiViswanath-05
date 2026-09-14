@@ -1,0 +1,26 @@
+# Project-specific ignores
+*.log
+*.tmp
+.DS_Store
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+temp/
+tmp/
+.cache/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# System files
+Thumbs.db
+desktop.ini
+AdhimulamBhargavSaiViswanath-05/
