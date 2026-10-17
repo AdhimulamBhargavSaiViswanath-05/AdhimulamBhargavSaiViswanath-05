@@ -7,15 +7,15 @@
 *Building practical AI/ML systems for real-world problems*
 
 <p>
-  <a href="https://adhimulambhargavsaiviswanath-05.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/adhimulambhargavsaiviswanath/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:bhargavsaiadhimulam12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://adhimulambhargavsaiviswanath-05.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/adhimulambhargavsaiviswanath/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="mailto:bhargavsaiadhimulam12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20VVIT-0288D1?style=flat-square" alt="Education"/>
-  <img src="https://img.shields.io/badge/Current%20Role-AI%20Engineer%20Intern%20%40%20Paytm-00BAF2?style=flat-square" alt="Current Role"/>
-  <img src="https://img.shields.io/badge/Location-Tenali%2C%20India%20%7C%20Open%20to%20Relocation-2E7D32?style=flat-square" alt="Location"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Education-B.Tech%20CSE%20%28AI%20%26%20ML%29%20%7C%20VVIT-29A3E8?style=flat-square"><img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20%28AI%20%26%20ML%29%20%7C%20VVIT-0288D1?style=flat-square" alt="Education"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Current%20Role-AI%20Engineer%20Intern%20%40%20Paytm-00BAF2?style=flat-square"><img src="https://img.shields.io/badge/Current%20Role-AI%20Engineer%20Intern%20%40%20Paytm-00A0D6?style=flat-square" alt="Current Role"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Location-Tenali%2C%20India%20%7C%20Open%20to%20Relocation-43A047?style=flat-square"><img src="https://img.shields.io/badge/Location-Tenali%2C%20India%20%7C%20Open%20to%20Relocation-2E7D32?style=flat-square" alt="Location"/></picture>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=AdhimulamBhargavSaiViswanath-05&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -59,31 +59,37 @@ I enjoy working across the full cycle of an idea: researching it, designing it, 
 
 **Languages & Core**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></picture>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-3D8BD0?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-5B9BD5?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></picture>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-2D8CDB?style=for-the-badge&logo=css&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/></picture>
+</p>
 
 **AI & Machine Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pandas-E70488?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=013243"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Matplotlib-3F8EC4?style=for-the-badge"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/></picture>
+</p>
 
 **Web, Cloud & Tools**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS"/></picture>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-F0F6FC?style=for-the-badge&logo=github&logoColor=181717"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></picture>
+</p>
 
 **Areas of Expertise**
 - **AI & ML:** Regression, Decision Trees, K-Means, CNNs, NLP (text preprocessing, stemming), Constraint Satisfaction Problems
@@ -104,12 +110,12 @@ Vasireddy Venkatadri Institute of Technology (VVIT) · 2023 – 2027 · CGPA: 8.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AdhimulamBhargavSaiViswanath-05&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhimulamBhargavSaiViswanath-05&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AdhimulamBhargavSaiViswanath-05&show_icons=true&theme=github_dark&hide_border=true&count_private=true"><img height="180" src="https://github-readme-stats.vercel.app/api?username=AdhimulamBhargavSaiViswanath-05&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhimulamBhargavSaiViswanath-05&layout=compact&theme=github_dark&hide_border=true&langs_count=8"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhimulamBhargavSaiViswanath-05&layout=compact&theme=default&langs_count=8" alt="Top Languages"/></picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdhimulamBhargavSaiViswanath-05&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AdhimulamBhargavSaiViswanath-05&theme=github-dark&hide_border=true"><img src="https://streak-stats.demolab.com/?user=AdhimulamBhargavSaiViswanath-05&theme=default" alt="GitHub Streak"/></picture>
 </p>
 
 ---
@@ -128,8 +134,8 @@ I'm always open to conversations about AI/ML, internships, collaborations, and n
 | 📍 **Location** | Tenali, India · Open to relocation |
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adhimulambhargavsaiviswanath/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/AdhimulamBhargavSaiViswanath-05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/adhimulambhargavsaiviswanath/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://github.com/AdhimulamBhargavSaiViswanath-05"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-F0F6FC?style=for-the-badge&logo=github&logoColor=181717"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></picture></a>
   <a href="mailto:bhargavsaiadhimulam12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://adhimulambhargavsaiviswanath-05.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
